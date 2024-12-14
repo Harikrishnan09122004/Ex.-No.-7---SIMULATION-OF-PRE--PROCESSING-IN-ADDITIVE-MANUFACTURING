@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14-12-2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,25 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![s1](https://github.com/user-attachments/assets/b9eb1de4-8e49-4c20-90ae-77a3f05d6b02)
+![s2](https://github.com/user-attachments/assets/17744381-a790-40f4-9902-c98b38ece06a)
+![s3](https://github.com/user-attachments/assets/53f08b3e-7273-4f96-9784-c5e44bde3ff6)
+![s4](https://github.com/user-attachments/assets/26f3f3f1-6697-4fe3-8ee8-2263cc8e69bf)
+![s5](https://github.com/user-attachments/assets/9ad1b2f5-41ef-4934-b6f4-b71de632edd2)
+![s6](https://github.com/user-attachments/assets/42957fc7-e0dd-4fa1-bbfa-992c57afcdd5)
+
 
 ## Output:
+![Screenshot 2024-12-14 085604](https://github.com/user-attachments/assets/1af9aaac-22f1-4e10-88ed-f1aeb81e6aab)
+![Screenshot 2024-12-14 085617](https://github.com/user-attachments/assets/e23c0e91-7fde-44d9-9090-667d1be43d39)
+![Screenshot 2024-12-14 085625](https://github.com/user-attachments/assets/e643d0a2-1d8e-43d0-9746-2470b784a5ff)
+![Screenshot 2024-12-14 085640](https://github.com/user-attachments/assets/6c1c48c7-e900-4556-bfc0-cafedd220ada)
+![Screenshot 2024-12-14 085647](https://github.com/user-attachments/assets/a6fa2c97-5284-4474-8040-8cb8ecf95e98)
+![Screenshot 2024-12-14 085700](https://github.com/user-attachments/assets/7dce3078-53f8-43f5-a337-50d390171492)
 
-### Name:
-### Register Number:
+
+### Name: HARIKRISHNAN R
+### Register Number: 24900636
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
